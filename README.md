@@ -11,7 +11,7 @@ Here are the detailed instructions for using the network device mapping and vuln
 ### Comprehensive Network Device Mapping and Vulnerability Scanning Tool
 
 #### Overview
-This tool performs comprehensive network device mapping, identifying ports, services, and vulnerabilities. It uses tools such as `nmap`, `masscan`, `searchsploit`, `hydra`, and `medusa` for scanning and analysis. The tool provides a detailed summary of findings and saves the results for further inspection.
+This tool performs comprehensive network device mapping, identifying ports, services, and vulnerabilities. It uses tools such as `nmap`, `masscan`, `searchsploit`, and `hydra` for scanning and analysis. The tool provides a detailed summary of findings and saves the results for further inspection.
 
 #### Instructions for Use
 
